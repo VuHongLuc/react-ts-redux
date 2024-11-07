@@ -1,0 +1,12 @@
+.pagination{
+    margin: 5px;
+    justify-content: center;
+}
+
+.page-item{
+    padding: 2px;
+}
+
+.active .page-link{
+    z-index: 0;
+}
