@@ -1,0 +1,15 @@
+.myBytton{
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    margin: 5px;
+}
+
+.myBytton:hover {
+    color: #d8d8d8;
+}
+
+.myBytton:active {
+    transform: scale(0.95);
+}
